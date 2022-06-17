@@ -1,0 +1,8 @@
+[api]
+port = "9000"
+
+[database]
+host = "localhost"
+user = "gopher"
+pass = "20333"
+name = "api_todo"
